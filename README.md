@@ -1,8 +1,8 @@
 # TallerTDDMaquinaDeCafe
-Taller Practico donde se conoce los principios de Tdd
-
-PASOS
+Taller Practico donde se conoce los principios de Tdd en un ejemplo sencillo
+# PASOS
 (1)
+
 <Azucarero>
 
 -Test para saber si hay azucar.
@@ -12,6 +12,7 @@ PASOS
 </Azucarero>
 
 (2)
+
 <cafetera>
 -Test para saber si hay Cafe.
 -Test para saber si no hay Cafe.
@@ -19,6 +20,7 @@ PASOS
 </cafetera>
 
 (3)
+
 <vaso>
 -Test para saber si hay Vasos.
 -Test para saber si no hay Vasos.
@@ -26,6 +28,7 @@ PASOS
 </vaso>
 
 (4)
+
 <MaquinaDeCafe>
 -Test para devolver un vaso Pequeno.
 -Test para devolver un vaso Mediano.
@@ -42,7 +45,9 @@ PASOS
 -Test para venderTodo
 
 </MaquinaDeCafe>
+
 (5)
+
 <UiMaquinaDeCafe>
 -Creamos la vista de La Maquina De Cafe.
 -Creamos el controlador de la Maquina De Cafe.
