@@ -1,11 +1,14 @@
 # TallerTDDMaquinaDeCafe
 Taller Practico donde se conoce los principios de Tdd
-Pasos
+
+PASOS
 (1)
 <Azucarero>
+
 -Test para saber si hay azucar.
 -Test para saber si no hay azucar.
 -Test para dar el azucar.
+
 </Azucarero>
 
 (2)
