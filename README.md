@@ -1,5 +1,8 @@
 # TallerTDDMaquinaDeCafe
-Taller Practico donde se conoce los principios de Tdd en un ejemplo sencillo
+Taller Practico donde se conoce los principios de Tdd en un ejemplo sencillo colaborando en la creacion de un Maquina Dispensadora De Cafe.
+
+NOTA :El ejercicio está inspirado en una actividad realizada por Nico Páez (https://twitter.com/inicopaez)  en la Universidad Piloto de Colombia (Sede Girardot).
+
 # PASOS
 (1)
 
